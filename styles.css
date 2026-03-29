@@ -988,10 +988,7 @@ h2.section-title {
     -webkit-backdrop-filter: blur(20px);
     border: 1px solid rgba(255, 255, 255, 0.3);
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
-}i m g . b r a n d - l o g o  
-   m a x - h e i g h t :   4 0 p x ;    
- w i d t h :   a u t o ;    
- i m g . b r a n d - l o g o - f o o t e r  
-   m a x - h e i g h t :   6 0 p x ;    
- w i d t h :   a u t o ;    
- 
+}
+
+img.brand-logo { max-height: 40px; width: auto; }
+img.brand-logo-footer { max-height: 60px; width: auto; }
